@@ -26,6 +26,10 @@ header {
     padding: 5px;
 }
 
+#history ul{
+    padding-left: 20px;
+}
+
 footer {
 
     color: white;
@@ -33,4 +37,13 @@ footer {
     padding: 10px;
     text-align: center;
     background: darkslategray;
+}
+
+table {
+    border: 1px solid black;
+}
+
+table tr td {
+    border: 1px solid black;
+    padding: 5px;
 }
